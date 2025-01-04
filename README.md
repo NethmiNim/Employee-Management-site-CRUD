@@ -1,2 +1,3 @@
-# Employee-Management-site-CRUD
-In my 2nd year, 1st semester, I worked on a Java-based website project for an Object-Oriented Programming module. In a team of four, I developed the login system, employee registration, and CRUD functionalities for admin and employee sections, improving both technical and teamwork skills.
+In my 2nd year, 1st semester at university, I studied an Object-Oriented Programming module focused on Java. As part of the coursework, our team of four was tasked with creating a website within a set deadline The topic wahs Employee Management System. My primary responsibility was developing the login system and managing the "Employees' Details" section.  
+
+For the admin side, I implemented functionalities to create, edit, update, and delete employee records efficiently. On the employee side, I handled features such as registration, sign-in, and sign-up, ensuring a seamless user experience. This project enhanced my programming skills, teamwork, and ability to deliver quality work under time constraints.
